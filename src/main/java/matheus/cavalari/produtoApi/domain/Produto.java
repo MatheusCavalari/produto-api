@@ -20,11 +20,14 @@ public class Produto {
     @Column(name = "nome")
     private String nome;
 
-    @Column(name = "descricao")
-    private String descricao;
+    @Column(name = "descricaoBreve")
+    private String descricaoBreve;
+
+    @Column(name = "descricaoCompleta")
+    private String descricaoCompleta;
 
     @Column(name = "publico_alvp")
-    private String publicoAlvp;
+    private String publicoAlvo;
 
     @Column(name = "maturidade")
     private Maturidade maturidade;
