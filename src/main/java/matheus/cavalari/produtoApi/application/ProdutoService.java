@@ -1,4 +1,4 @@
-package matheus.cavalari.produtoApi.aplication;
+package matheus.cavalari.produtoApi.application;
 
 import jakarta.annotation.PostConstruct;
 import matheus.cavalari.produtoApi.adapter.out.ProdutoRepository;

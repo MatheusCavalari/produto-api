@@ -1,4 +1,4 @@
-package matheus.cavalari.produtoApi.aplication;
+package matheus.cavalari.produtoApi.application;
 
 import matheus.cavalari.produtoApi.domain.Produto;
 import org.springframework.data.domain.Page;

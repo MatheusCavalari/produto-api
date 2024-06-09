@@ -1,6 +1,6 @@
 package matheus.cavalari.produtoApi.adapter.in;
 
-import matheus.cavalari.produtoApi.aplication.IProdutoService;
+import matheus.cavalari.produtoApi.application.IProdutoService;
 import matheus.cavalari.produtoApi.domain.Produto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
